@@ -22,7 +22,25 @@
         "id": 3,
         "title": "Write a Beginners Guide",
         "language": "SQL",
-        "description": "It can be how to make your first query or a basic beguinners guide on it"
+        "description": "How to make your first query or a basic beginners guide on it"
+    },
+    {
+        "id": 4,
+        "title": "Make CSS art",
+        "language": "CSS",
+        "description": "Show off your skills and write how to use CSS to make art"
+    },
+    {
+        "id": 5,
+        "title": "Make a manual",
+        "language": "MongoDB",
+        "description": "Explain how to make your first server and database"
+    },
+    {
+        "id": 6,
+        "title": "Write a Beginners Guide",
+        "language": "GitHub",
+        "description": "Make a guide on how to create your first Repo and how to add content remotely"
     }
 ]
 }
