@@ -1,0 +1,22 @@
+{
+    "articles": [
+    {
+        "id": 0,
+        "title": "Write a How-To Guide",
+        "language": "JavaScript",
+        "description": "It can be how to make a vanilla js app or how to deploy it"
+    },
+    {
+        "id": 1,
+        "title": "Write a Tutorial",
+        "language": "Node.js",
+        "description": "It can be how to set up your first server or a basic guide"
+    },
+    {
+        "id": 2,
+        "title": "Write a Beginners Guide",
+        "language": "SQL",
+        "description": "It can be how to make your first query or a basic beguinners guide on it"
+    }
+]
+}
