@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "article-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriCodes/article-ideas-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriCodes/article-ideas-api/issues"
+  },
+  "homepage": "https://github.com/YuriCodes/article-ideas-api#readme",
+  "description": ""
 }
