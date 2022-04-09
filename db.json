@@ -8,12 +8,18 @@
     },
     {
         "id": 1,
+        "title": "Write a beginners tutorial",
+        "language": "JavaScript",
+        "description": "Make an app from zero to deployment targeted at code newbies"
+    },
+    {
+        "id": 2,
         "title": "Write a Tutorial",
         "language": "Node.js",
         "description": "It can be how to set up your first server or a basic guide"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Write a Beginners Guide",
         "language": "SQL",
         "description": "It can be how to make your first query or a basic beguinners guide on it"
