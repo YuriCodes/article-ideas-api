@@ -4,5 +4,5 @@ Hello everyone! If you're like me the hardest part about writing is coming up wi
 
 You can check it out here: https://article-api-inspiration.herokuapp.com/articles
 
-I encourage you that if you have any ideas for articles to help me expand my database and make a pull request!!
+I encourage you that if you have any ideas for articles to help me expand my database and make a pull request!! Check db.json to know the format! :]
 
